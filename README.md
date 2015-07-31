@@ -1,18 +1,20 @@
 ## Chuyên đề Mạng máy tính, DHTH8, 2015
 
+Thông báo
+-----------------
+Để tải về bài giảng, bài tập:
+```
+git clone https://github.com/chuyendemang/chuyendemang-dhth8.git
+```
+Hoặc 
+```
+git pull origin master
+```
+
 Lịch dự kiến
 -----------------
-```
-git clone https://github.com/chuyendemang/lectures.git
-```
+(sẽ cập nhật)
 
-
-Bài tập
-----------------
-```
-git clone https://github.com/chuyendemang/homework.git
-```
-(liên tục cập nhật)
 
 Bài tập lập trình
 ----------------
