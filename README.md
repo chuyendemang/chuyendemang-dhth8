@@ -6,15 +6,18 @@ Thông báo
 ```
 git clone https://github.com/chuyendemang/chuyendemang-dhth8.git
 ```
-Hoặc 
+Hoặc
 ```
 git pull origin master
 ```
 
 Lịch dự kiến
 -----------------
+1. Week 1: intro-to-course, version-make
+2. Week 2: intro-to-cloud
+3. Week 3: membership
+4. Week 4: intro to programming assignment 1
 (sẽ cập nhật)
-
 
 Bài tập lập trình
 ----------------
