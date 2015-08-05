@@ -2,6 +2,10 @@
 
 Thông báo
 -----------------
+- 5/8: Ngày  10/8, lớp nghỉ.
+
+Lịch dự kiến
+-----------------
 Để tải về bài giảng, bài tập:
 ```
 git clone https://github.com/chuyendemang/chuyendemang-dhth8.git
@@ -10,9 +14,6 @@ Hoặc
 ```
 git pull origin master
 ```
-
-Lịch dự kiến
------------------
 1. Week 1: intro-to-course, version-make
 2. Week 2: intro-to-cloud
 3. Week 3: membership
