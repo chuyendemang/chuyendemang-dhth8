@@ -2,6 +2,8 @@
 
 Thông báo
 -----------------
+- 22/8: Đăng ký nhóm thuyết trình tại [đây](https://docs.google.com/spreadsheets/d/1aAAGWf7dDewfRgbovWXL-9nBvEmhWSquuqp34HBCkRE/edit?usp=sharing).
+Yêu cầu 3 SV/nhóm, điền đầy đủ thông tin MSSV, lớp. Những SV không tìm được người làm cùng cứ đăng ký một mình, tôi sẽ ghép các bạn lại với nhau một cách ngẫu nhiên.
 - 5/8: Ngày  10/8, lớp nghỉ.
 
 Lịch dự kiến
