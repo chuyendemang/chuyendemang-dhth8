@@ -2,6 +2,11 @@
 
 Thông báo
 -----------------
+- 31/8: Đăng ký thông tin bài tập lập trình tại [đây](https://docs.google.com/spreadsheets/d/1Acg1_p_82P8lpG7GXcRBh1b5LBEAEBSOpxRe1q9OcOY/edit?usp=sharing). Thông tin đăng ký sẽ được đóng lại vào cuối tuần này (6/9)
+
+Anh/chị lưu lý, fork project [mp1-assignment](https://github.com/chuyendemang/mp1-assignment) sang trang github của các bạn, và cấu hình git với  name theo dạng MSSV-Tên, như
+``` git config --local user.name "123456.Nguyễn Văn A"```
+
 - 22/8: Đăng ký nhóm thuyết trình tại [đây](https://docs.google.com/spreadsheets/d/1aAAGWf7dDewfRgbovWXL-9nBvEmhWSquuqp34HBCkRE/edit?usp=sharing).
 Yêu cầu 3 SV/nhóm, điền đầy đủ thông tin MSSV, lớp. Những SV không tìm được người làm cùng cứ đăng ký một mình, tôi sẽ ghép các bạn lại với nhau một cách ngẫu nhiên.
 - 5/8: Ngày  10/8, lớp nghỉ.
@@ -20,6 +25,9 @@ git pull origin master
 2. Week 2: intro-to-cloud
 3. Week 3: membership
 4. Week 4: intro to programming assignment 1
+5. Week 5,6: p2p
+6. Week 7: NoSQL
+
 (sẽ cập nhật)
 
 Bài tập lập trình
