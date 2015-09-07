@@ -2,6 +2,8 @@
 
 Thông báo
 -----------------
+- 7/9: Sinh viên đăng ký bổ xung ở hai link cũ. Lưu ý ghi vào bên dưới ghi chú "Đăng ký bổ xung".
+
 - 31/8: Đăng ký thông tin bài tập lập trình tại [đây](https://docs.google.com/spreadsheets/d/1Acg1_p_82P8lpG7GXcRBh1b5LBEAEBSOpxRe1q9OcOY/edit?usp=sharing). Thông tin đăng ký sẽ được đóng lại vào cuối tuần này (6/9)
 
 Anh/chị lưu lý, fork project [mp1-assignment](https://github.com/chuyendemang/mp1-assignment) sang trang github của các bạn, và cấu hình git với  name theo dạng MSSV-Tên, như
