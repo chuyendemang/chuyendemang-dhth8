@@ -2,6 +2,8 @@
 
 Thông báo
 -----------------
+- 24/9: Nội dung ôn tập: So sánh các loại cloud,  Membership, Napster, Gnutella.
+ 
 - 7/9: Sinh viên đăng ký bổ xung ở hai link cũ. Lưu ý ghi vào bên dưới ghi chú "Đăng ký bổ xung".
 
 - 31/8: Đăng ký thông tin bài tập lập trình tại [đây](https://docs.google.com/spreadsheets/d/1Acg1_p_82P8lpG7GXcRBh1b5LBEAEBSOpxRe1q9OcOY/edit?usp=sharing). Thông tin đăng ký sẽ được đóng lại vào cuối tuần này (6/9)
